@@ -1,0 +1,5 @@
+.cache/
+testing/
+obj/
+compile_commands.json
+out
