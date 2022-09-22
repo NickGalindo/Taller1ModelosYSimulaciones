@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1663460219 source:d:\shit\modelos\punto3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lcgrand.h"
+	<math.h>
+
+903918616 d:\shit\modelos\punto3\lcgrand.h
+	"lcgrand.h"
+
+903918794 source:d:\shit\modelos\punto3\lcgrand.c
+
+903918794 source:d:\shit\modelos\a ver\lcgrand.c
+
+1663461284 source:d:\shit\modelos\a ver\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lcgrand.h"
+	<math.h>
+
+903918616 d:\shit\modelos\a ver\lcgrand.h
+	"lcgrand.h"
+
