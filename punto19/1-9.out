@@ -1,0 +1,57 @@
+Punto 1.9 / Tarea 1
+
+Mean service 1 0.050000
+
+Mean service 2 0.060000
+
+Mean service 3 0.050000
+
+Mean service 4 0.070000
+
+Lambda arrival 0.040000
+
+
+
+Average delay in single queue
+
+
+
+The average delay in queue 1 is 0.000245 minutes
+
+The average delay in queue 2 is 0.000000 minutes
+
+The average delay in queue 3 is 0.000048 minutes
+
+The average delay in queue 4 is 0.000350 minutes
+
+The average delay in all queues is 0.000222 minutes
+
+Average number in queue
+
+
+
+The average number on queue 1 is 0.007828
+
+The average number on queue 2 is 0.000000
+
+The average number on queue 3 is 0.000000
+
+The average number on queue 4 is 0.000000
+
+The average number in all queues is 0.007828
+
+Average server utilization at queue
+
+
+
+The server utilization in queue 1 is 59.880709
+
+The server utilization in queue 2 is 0.000000
+
+The server utilization in queue 3 is 0.062988
+
+The server utilization in queue 4 is 0.417885
+
+The average server status in all queues is 60.361577
+
+Time simulation ended      720.812 days
