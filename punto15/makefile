@@ -1,4 +1,4 @@
-EXE := out
+EXE := run 
 
 IDIR := include
 LDIR := lib
